@@ -1,0 +1,11 @@
+Exercise 1 notes:
+
+1. Create a project folder and initialize git.
+2. Add files and content to the project.
+3. Rename the main branch (master <-> main practice).
+4. Stage and commit the changes.
+5. Create a GitHub repo and connect it as the remote.
+6. Push the changes to GitHub.
+7. Create a "dev" branch.
+8. From "dev", create a "test" branch.
+9. Switch back to "dev" and delete the "test" branch.
